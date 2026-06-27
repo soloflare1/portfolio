@@ -52,7 +52,7 @@ export default function Hero() {
             <h1 className="hn"><span className="hn-grad">Nosratee<br />Jahan Naba</span></h1>
             <p className="htag">Code. Build. Solve.</p>
             <p className="hbio">
-              A CSE student at BAIUST with a passion for SWE. I strive to grow continuously,
+              I strive to grow continuously,
               contribute meaningfully, and push the boundaries of what I can create with code.
             </p>
             <div className="chips">
